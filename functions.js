@@ -122,6 +122,3 @@ log.info = createColoredLogFunction(colors.blue);
 log.warning = createColoredLogFunction(colors.yellow);
 
 export default log;
-
-
-
